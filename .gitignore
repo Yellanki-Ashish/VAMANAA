@@ -1,0 +1,26 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Environment variables
+backend/.env
+
+# Local data
+backend/data/users.json
+backend/data/chat_history.json
+
+# ChromaDB
+backend/chroma_db/
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

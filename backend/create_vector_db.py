@@ -1,0 +1,3 @@
+from services.vector_db import create_vector_database
+
+create_vector_database()

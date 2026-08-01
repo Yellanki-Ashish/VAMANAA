@@ -1,0 +1,39 @@
+[
+  {
+    "chapter": 2,
+    "verse": 47,
+    "title": "Karma Yoga",
+    "sanskrit": "कर्मण्येवाधिकारस्ते...",
+    "english": "You have a right to perform your prescribed duty, but never to the fruits of action.",
+    "keywords": [
+      "karma",
+      "duty",
+      "work",
+      "action"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 35,
+    "title": "Svadharma",
+    "sanskrit": "श्रेयान्स्वधर्मो...",
+    "english": "It is better to perform one's own duty imperfectly than another's perfectly.",
+    "keywords": [
+      "dharma",
+      "duty",
+      "life"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "title": "Avatar",
+    "sanskrit": "यदा यदा हि धर्मस्य...",
+    "english": "Whenever righteousness declines, I manifest Myself.",
+    "keywords": [
+      "krishna",
+      "avatar",
+      "dharma"
+    ]
+  }
+]

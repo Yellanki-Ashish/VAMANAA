@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "kanda": "Bala Kanda",
+    "chapter": 1,
+    "verse": 1,
+    "title": "Birth of Rama",
+    "english": "Lord Rama was born in Ayodhya as the son of King Dasharatha and Queen Kausalya.",
+    "keywords": [
+      "rama",
+      "birth",
+      "ayodhya",
+      "dasharatha",
+      "kausalya"
+    ]
+  },
+  {
+    "id": 2,
+    "kanda": "Ayodhya Kanda",
+    "chapter": 2,
+    "verse": 1,
+    "title": "Exile",
+    "english": "Rama willingly accepted fourteen years of exile to honor his father's promise.",
+    "keywords": [
+      "exile",
+      "forest",
+      "kaikeyi",
+      "promise",
+      "dharma"
+    ]
+  },
+  {
+    "id": 3,
+    "kanda": "Aranya Kanda",
+    "chapter": 3,
+    "verse": 1,
+    "title": "Sita's Abduction",
+    "english": "Ravana abducted Sita by deception while Rama and Lakshmana were away.",
+    "keywords": [
+      "ravana",
+      "sita",
+      "abduction",
+      "golden deer"
+    ]
+  },
+  {
+    "id": 4,
+    "kanda": "Kishkindha Kanda",
+    "chapter": 4,
+    "verse": 1,
+    "title": "Hanuman Meets Rama",
+    "english": "Hanuman met Lord Rama and became his greatest devotee.",
+    "keywords": [
+      "hanuman",
+      "devotion",
+      "sugriva"
+    ]
+  },
+  {
+    "id": 5,
+    "kanda": "Yuddha Kanda",
+    "chapter": 5,
+    "verse": 1,
+    "title": "Victory over Ravana",
+    "english": "Lord Rama defeated Ravana and restored Dharma.",
+    "keywords": [
+      "ravana",
+      "war",
+      "lanka",
+      "victory"
+    ]
+  }
+]

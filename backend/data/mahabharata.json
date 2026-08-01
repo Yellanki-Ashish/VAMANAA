@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "parva": "Adi Parva",
+        "chapter": 1,
+        "verse": 1,
+        "title": "Birth of the Pandavas",
+        "english": "The Pandavas were born through divine blessings and were destined to establish Dharma.",
+        "keywords": [
+            "pandavas",
+            "birth",
+            "dharma",
+            "yudhishthira",
+            "bhima",
+            "arjuna"
+        ]
+    },
+    {
+        "id": 2,
+        "parva": "Sabha Parva",
+        "chapter": 2,
+        "verse": 1,
+        "title": "Dice Game",
+        "english": "Yudhishthira lost his kingdom in a game of dice because of Duryodhana and Shakuni.",
+        "keywords": [
+            "dice",
+            "shakuni",
+            "duryodhana",
+            "gambling"
+        ]
+    },
+    {
+        "id": 3,
+        "parva": "Vana Parva",
+        "chapter": 3,
+        "verse": 1,
+        "title": "Forest Exile",
+        "english": "The Pandavas spent thirteen years in exile after losing the dice game.",
+        "keywords": [
+            "forest",
+            "exile",
+            "pandavas"
+        ]
+    },
+    {
+        "id": 4,
+        "parva": "Bhishma Parva",
+        "chapter": 4,
+        "verse": 1,
+        "title": "Kurukshetra War",
+        "english": "The great war of Kurukshetra began between the Pandavas and Kauravas.",
+        "keywords": [
+            "war",
+            "kurukshetra",
+            "kauravas",
+            "pandavas"
+        ]
+    },
+    {
+        "id": 5,
+        "parva": "Shanti Parva",
+        "chapter": 5,
+        "verse": 1,
+        "title": "Bhishma's Teachings",
+        "english": "Bhishma explained Dharma, leadership, justice, and righteous governance to Yudhishthira.",
+        "keywords": [
+            "bhishma",
+            "leadership",
+            "justice",
+            "dharma"
+        ]
+    }
+]

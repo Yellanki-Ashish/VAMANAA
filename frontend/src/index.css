@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin:0;
+  font-family:'Inter',sans-serif;
+  background:#faf8f2;
+}
+
+h1,h2,h3,h4{
+  font-family:'Cormorant Garamond',serif;
+}
+
+.om-symbol{
+  color:#D4AF37;
+}
+
+.card-warm{
+  @apply bg-white rounded-2xl shadow-md border;
+}
+
+.btn-primary{
+  @apply bg-orange-700 text-white px-6 py-3 rounded-xl hover:opacity-90 transition;
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown p {
+  margin-bottom: 0.75rem;
+  line-height: 1.8;
+}
+
+.markdown ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown strong {
+  font-weight: bold;
+}
+
+.markdown blockquote {
+  border-left: 4px solid orange;
+  padding-left: 1rem;
+  color: #555;
+}
+
+.markdown code {
+  background: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
